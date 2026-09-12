@@ -18,7 +18,7 @@
 
 ### ⏱️ 0:00 – 0:30 | Introduction & Problem Statement
 
-- **UI Action:** Open the app on **Stage 1 (`ASK`)**. Hover over the natural language prompt box.
+- **UI Action :** Open the app on **Stage 1 (`ASK`)**. Hover over the natural language prompt box.
 - **What to Say (Speaker Script):**
   > *"Hi everyone! I’m presenting my submission for Option 2: the AI-Native Trading Research Platform.*  
   > *Imagine a user enters: 'Does buying NIFTY after a sharp fall work?'. Conventional backtesters fail because the question is deliberately incomplete. What is a sharp fall? When do you enter? How long do you hold?*  
