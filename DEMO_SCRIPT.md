@@ -6,7 +6,7 @@
 
 ---
 
-## 💡 Quick Tips for Video Recording
+## 💡Quick Tips for Video Recording
 
 - **Browser Window:** Open [http://localhost:5173/](http://localhost:5173/) (or `http://localhost:5174/`) in Fullscreen mode (F11 or maximize).
 - **Audio & Tone:** Speak confidently, clearly, and at a steady pace.
