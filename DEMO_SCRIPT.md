@@ -1,8 +1,8 @@
 # 2–3 Minute Video Presentation Script & Presenter Guide
 
-**Project:** AlphaSense AI — AI-Native Trading Research Platform  
-**Challenge Target:** Option 2 (Thinking & Building Challenge)  
-**Total Target Duration:** 2 Minutes 45 Seconds
+**Project :** AlphaSense AI — AI-Native Trading Research Platform  
+**Challenge Target :** Option 2 (Thinking & Building Challenge)  
+**Total Target Duration :** 2 Minutes 45 Seconds
 
 ---
 
