@@ -22,7 +22,7 @@ export const Navbar: React.FC<NavbarProps> = ({ currentStage, setStage, resetAll
   return (
     <header className="sticky top-0 z-50 glass-panel border-b border-slate-800/80 px-4 lg:px-8 py-3.5">
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
-        {/* Brand Logo & Tagline */}
+        {/* Brand Logo & Tagline  */}
         <div className="flex items-center gap-3 cursor-pointer" onClick={resetAll}>
           <div className="p-2.5 rounded-xl bg-gradient-to-tr from-blue-600 to-indigo-500 shadow-lg shadow-blue-500/20 text-white">
             <Sparkles className="w-5 h-5 animate-pulse" />
