@@ -11,7 +11,7 @@ interface StageDefineProps {
 export const StageDefine: React.FC<StageDefineProps> = ({ params, onBack, onRunTest }) => {
   return (
     <div className="max-w-5xl mx-auto space-y-8 py-4">
-      {/* Header Banner */}
+      {/* Header  Banner */}
       <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 p-6 glass-panel rounded-2xl border border-slate-800">
         <div>
           <div className="flex items-center gap-2 text-xs font-semibold text-emerald-400 uppercase tracking-wider mb-1">
@@ -79,8 +79,8 @@ export const StageDefine: React.FC<StageDefineProps> = ({ params, onBack, onRunT
                   {params.fallType === 'SINGLE_DAY'
                     ? `1-Day Close Return ≤ ${params.fallThreshold}%`
                     : params.fallType === 'MULTI_DAY'
-                    ? `3-Day Drawdown ≤ ${params.fallThreshold}%`
-                    : `Drop ≥ ${Math.abs(params.fallThreshold)}x ATR(14)`}
+                      ? `3-Day Drawdown ≤ ${params.fallThreshold}%`
+                      : `Drop ≥ ${Math.abs(params.fallThreshold)}x ATR(14)`}
                 </td>
                 <td className="p-3.5 text-slate-400">Quantitative trigger for abnormal mean-reversion opportunity.</td>
               </tr>
