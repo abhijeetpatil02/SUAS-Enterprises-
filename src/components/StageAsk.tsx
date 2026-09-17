@@ -29,7 +29,7 @@ export const StageAsk: React.FC<StageAskProps> = ({ onProceed }) => {
 
   return (
     <div className="max-w-4xl mx-auto space-y-8 py-4">
-      {/* Hero Section */}
+      {/* Hero  Section */}
       <div className="text-center space-y-3">
         <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-blue-500/10 border border-blue-500/20 text-blue-400 text-xs font-semibold">
           <Compass className="w-3.5 h-3.5" />
