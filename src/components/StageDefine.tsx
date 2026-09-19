@@ -11,7 +11,7 @@ interface StageDefineProps {
 export const StageDefine: React.FC<StageDefineProps> = ({ params, onBack, onRunTest }) => {
   return (
     <div className="max-w-5xl mx-auto space-y-8 py-4">
-      {/* Header  Banner */}
+      {/* Header Banner */}
       <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 p-6 glass-panel rounded-2xl border border-slate-800">
         <div>
           <div className="flex items-center gap-2 text-xs font-semibold text-emerald-400 uppercase tracking-wider mb-1">
