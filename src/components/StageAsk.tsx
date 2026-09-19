@@ -43,7 +43,7 @@ export const StageAsk: React.FC<StageAskProps> = ({ onProceed }) => {
         </p>
       </div>
 
-      {/* Main Query Prompt Box */}
+      {/* Main Query  Prompt Box */}
       <div className="glass-panel p-6 rounded-2xl border border-slate-800 space-y-6 glow-blue">
         <form onSubmit={handleSubmit} className="space-y-4">
           <label className="block text-xs font-medium text-slate-300 uppercase tracking-wider">
