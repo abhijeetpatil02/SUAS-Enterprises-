@@ -1,4 +1,4 @@
-# AlphaSense AI — Trading Research Platform
+# AlphaSense AI — Trading Research Platform 
 
 [![Vite](https://img.shields.io/badge/Vite-6.1-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![React](https://img.shields.io/badge/React-19.0-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
