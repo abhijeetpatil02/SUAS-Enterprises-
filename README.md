@@ -5,7 +5,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.0-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-> **AI Full-Stack Developer Intern Challenge — Option 2 Submission**  
+> **AI Full-Stack Developer Intern Challenge — Option 2  Submission**  
 > An AI-native quantitative trading research platform guiding users from **Question → Hypothesis → Experiment → Evidence → Learning** using historical NIFTY 50 market data.
 
 ---
